@@ -1,2 +1,3 @@
-# be-a-better-savannahian
-PG and non-pg suggestion generator for making Savannah better in your daily life.
+# So you want to be a better Savannnah citizen, eh?
+
+This tiny app gives some starter tips for you.

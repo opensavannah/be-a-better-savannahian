@@ -44,7 +44,7 @@ $(document).ready(function() {
   });
 
   // Add our mode switch
-  $('body > footer').append('<div id="mode"><input name="modeCheckbox" value="true" type="checkbox"><span>' + STRINGS.modeCheckbox[MODE] + '</span></div>');
+  $('body > footer').append('<div id="mode"><input name="modeCheckbox" value="true" type="checkbox"><span>&nbsp' + STRINGS.modeCheckbox[MODE] + '</span></div>');
   
   // when the checkbox is clicked
   $('input[name=modeCheckbox]').click(function(event) {

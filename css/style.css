@@ -32,20 +32,23 @@ audio:not([controls]) { display: none; }
 
 html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
-html, button, input, select, textarea { font-family: sans-serif; color: #222; }
+html, button, input, select, textarea { font-family: Work Sans, sans-serif; color: #222; }
 
 body { 
     margin: 0; 
     font-size: 1em; 
     margin:50px;
     width:75%;
+    font-family: work sans, sans-serif;
+    font-weight: 1000;
     }
 
 .main {
-    color: #000000;
-    font-family: Helvetica,Arial,sans-serif;
+    color: #F72210;
+    font-family: 'Work Sans', sans-serif;
+    text-shadow: 2px;
     font-size: 24px;
-    font-weight: 800;
+    font-weight: 1000;
     text-transform: uppercase;
     }
 h2 {
@@ -65,8 +68,8 @@ h2 {
    Links
    ========================================================================== */
 
-a { color: #00e; }
-a:visited { color: #551a8b; }
+a { color: #00e; text-decoration: none; }
+a:visited { color: #00e; }
 a:hover { color: #06e; }
 a:focus { outline: thin dotted; }
 

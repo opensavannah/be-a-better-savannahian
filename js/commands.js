@@ -8,7 +8,7 @@ var COMMANDS = {
     'dirty': "GPick up behind your fucking dog when it poops in Forsyth Park.",
   },
   "supercomputer": {
-    'clean': 'Donate your time or energy to help the Creative Coast nurture local entrerpreneurship.',
+    'clean': 'Donate your time or energy to help the <a href="http://thecreativecoast.org">Creative Coast</a> nurture local entrerpreneurship.',
     'dirty': "Give some fucking money to to Creative Coast!!!!"
   },
   "office": { 

@@ -5,7 +5,7 @@ var COMMANDS = {
   },
   "librarycard": {
     'clean': "Pick up behind your dog when it poops in Forsyth Park.",
-    'dirty': "GPick up behind your fucking dog when it poops in Forsyth Park.",
+    'dirty': "Pick up behind your fucking dog when it poops in Forsyth Park.",
   },
   "supercomputer": {
     'clean': 'Donate your time or energy to help the <a href="http://thecreativecoast.org">Creative Coast</a> nurture local entrerpreneurship.',
@@ -86,5 +86,9 @@ var COMMANDS = {
   "seat": {
   'clean': "Consider sending your children to public school and if not, at least do something to make local schoools better.",
   'dirty': "Stop paying thousands of dollars so your kids won't have to interact with people from different socioeconomic backgrounds. It's fucking racist."
+  },
+  "stepup": {
+  'clean': "Participate in Step-Up Savannah's poverty simulation.gmai",
+  'dirty': "Fucking try living underneath the poverty line like 23 percent of the county has to every day before you say we spend too much on social services."
   }
 }

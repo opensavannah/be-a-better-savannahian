@@ -1,15 +1,23 @@
 var COMMANDS = {
-  "petition": {
+  "neighborhood": {
     'clean': "Join your Savannah neighborhood association!",
     'dirty': "Join your fucking Savannah neighborhood association!"
+  },
+    "petition": {
+    'clean': "Consider using our Adopt-a-Draihn app to take care of your local stormwater inlet.",
+    'dirty': "Use the damn web app and take some ownership of the debris you sweep out on the street regularly. Asshole."
   },
   "librarycard": {
     'clean': "Pick up behind your dog when it poops in Forsyth Park.",
     'dirty': "Pick up behind your fucking dog when it poops in Forsyth Park.",
   },
   "supercomputer": {
-    'clean': 'Donate your time or energy to help the <a href="http://thecreativecoast.org">Creative Coast</a> nurture local entrerpreneurship.',
+    'clean': 'Kindly obey the posted speed limits on Abercorn Street.',
     'dirty': "Give some fucking money to to Creative Coast!!!!"
+  },
+    "supercomputer": {
+    'clean': 'Donate your time or energy to help the <a href="http://thecreativecoast.org">Creative Coast</a> nurture local entrerpreneurship.',
+    'dirty': "Slow the hell down, your ashole. Going to kill a cyclist!"
   },
   "office": { 
     'clean': "Have you considered running for public office?",
